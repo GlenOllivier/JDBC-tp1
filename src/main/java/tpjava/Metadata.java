@@ -52,7 +52,7 @@ public class Metadata {
                     }
                     System.out.println();
                 }
-                
+
                 result.close();
                 statement.close();
 
